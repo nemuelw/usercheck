@@ -1,7 +1,7 @@
 [package]
 name = "usercheck"
 description = "Rust client for the UserCheck API"
-version = "0.1.0"
+version = "0.2.0"
 license = "MIT"
 documentation = "https://docs.rs/usercheck"
 homepage = "https://github.com/nemuelw/usercheck"
